@@ -25,9 +25,9 @@ https://zenn.dev/roppi/articles/zenn-cli-textlint-in-docker
 これによって同じコンテナ内で複数記事を管理しやすくなります。
 ちなみに、同じリポジトリにpushしても、このslugで別記事としてデプロイする事が可能です。
 
-:::details 新記事作成(slug指定版)
+```bash:新記事作成(slug指定版)
 npx zenn new:article --slug my-awesome-article
-:::
+```
 
 公開したいときは、publishedパラメータを ***true*** に変更するだけです。簡単ですね。
 
