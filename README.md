@@ -1,3 +1,21 @@
+<!-- 個人環境でのコマンド -->
+# install
+
+* ubuntu     : 20
+* node       : 18.17.0
+* npm        : 9.8.1
+* gatsby-cli : 5.11.0
+
+```
+npm install -g gatsby-cli
+gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog
+
+cd gatsby-blog
+gatsby develop
+```
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
