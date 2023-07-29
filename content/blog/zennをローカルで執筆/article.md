@@ -4,6 +4,7 @@ emoji: "🌟"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [docker,Tech,Zenn,VSCode]
 published: true
+date: "2023-07-29T06:12:03.284Z"
 ---
 
 # Zennをローカルで執筆するために必要なこと
