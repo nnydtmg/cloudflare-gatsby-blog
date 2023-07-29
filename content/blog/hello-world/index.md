@@ -1,8 +1,11 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: 自分用Markdownメモ(gatsby利用)
+date: "2023-07-29T05:12:03.284Z"
+description: "Markdownメモ"
 ---
+
+Hello Worldページを流用して自分用のGatsbyでのMarkdown構文をまとめています。
+
 
 This is my first post on my new fake blog! How exciting!
 
