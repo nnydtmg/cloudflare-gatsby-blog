@@ -3,7 +3,7 @@
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "hr0hr57 <nnydtmg@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -16,7 +16,7 @@
     "gatsby-plugin-manifest": "^5.11.0",
     "gatsby-plugin-sharp": "^5.11.0",
     "gatsby-remark-images": "^7.11.0",
-    "gatsby-remark-images-zoom": "^1.1.0",
+    "gatsby-remark-images-zoom": "",
     "gatsby-remark-prismjs": "^7.11.0",
     "gatsby-remark-responsive-iframe": "^6.11.1",
     "gatsby-source-filesystem": "^5.11.0",
