@@ -26,7 +26,8 @@ description: "AWS EBSのファーストタッチペナルティについて検�
 - EBSをリストアした時に全てのディスクへアクセスする
 - 「[Amazon EBSの高速スナップショット復元](https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/ebs-fast-snapshot-restore.html)」を使用する
 
-**高速スナップショット復元を利用した際には料金が追加でかかるので注意が必要です。** 
+[info]
+|高速スナップショット復元を利用した際には料金が追加でかかるので注意が必要です。
 
 # やってみた
 

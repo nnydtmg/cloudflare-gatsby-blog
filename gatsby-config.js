@@ -56,6 +56,21 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
+          {
+            resolve: `gatsby-remark-custom-blocks`,
+            options: {
+              blocks: {
+                danger: {
+                  classes: `danger`,
+                  title: `optional`,
+                },
+                info: {
+                  classes: "info",
+                  title: `optional`,
+                }
+              },
+            },
+          },
           `gatsby-remark-prismjs`,
         ],
       },
