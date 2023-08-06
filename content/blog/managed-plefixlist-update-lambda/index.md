@@ -5,6 +5,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["aws","python","lambda","waf"]
 published: true
 date: "2023-08-06T06:30:03.284Z"
+description: "LambdaでAWSマネージドプレフィックスリストを自動更新する"
 ---
 
 # はじめに

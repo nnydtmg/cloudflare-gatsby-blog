@@ -5,6 +5,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["aws","ebs","ec2"]
 published: true
 date: "2023-08-06T06:29:03.284Z"
+description: "AWS EBSのファーストタッチペナルティについて検証してみた"
 ---
 
 # ファーストタッチペナルティとは

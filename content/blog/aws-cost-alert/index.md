@@ -5,6 +5,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AWS","CDK","Cost","Slack","python"]
 published: true
 date: "2023-08-06T06:12:03.284Z"
+description: "AWS CDKで毎日の料金をSlackに通知する機能実装方法"
 ---
 
 # やりたいこと
