@@ -21,6 +21,7 @@ module.exports = {
     },
   },
   plugins: [
+    `gatsby-remark-grid-tables`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -47,7 +48,7 @@ module.exports = {
             },
           },
           {
-            resolve: `gatsby-remark-images-zoom`,
+            resolve: `gatsby-remark-images-medium-zoom`,
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
