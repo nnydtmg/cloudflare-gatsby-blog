@@ -51,7 +51,7 @@ gatsby develop
 
 この時点でのフォルダー構造は以下の通りです。
 
-::: details フォルダー構成
+```bash:details フォルダー構成
 .
 ├── content
 │   └── blog
@@ -125,7 +125,7 @@ gatsby develop
 └── static
     ├── favicon.ico
     └── robots.txt
-:::
+```
 
 `content/blog`配下に記事（.mdファイル）を作成すると、build時に`public/page-data`配下にページが作成されます。
 また、プロフィールについては、`gatsby-config.js`を編集することで更新できます。
