@@ -40,6 +40,10 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
+        // CommonMark mode (default: true)
+        commonmark: true,
+        // GitHub Flavored Markdown mode (default: true)
+        gfm: true,
         plugins: [
           {
             resolve: `gatsby-remark-images`,
@@ -65,7 +69,7 @@ module.exports = {
                   title: `optional`,
                 },
                 info: {
-                  classes: "info",
+                  classes: `info`,
                   title: `optional`,
                 }
               },
