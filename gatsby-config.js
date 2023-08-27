@@ -44,6 +44,7 @@ module.exports = {
         commonmark: true,
         // GitHub Flavored Markdown mode (default: true)
         gfm: true,
+        excerpt_separator: `<!-- endexcerpt -->`,
         plugins: [
           {
             resolve: `gatsby-remark-images`,
