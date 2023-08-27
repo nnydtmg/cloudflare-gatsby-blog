@@ -11,6 +11,7 @@
     "@fontsource-variable/montserrat": "^5.0.9",
     "@fontsource/merriweather": "^5.0.8",
     "gatsby": "^5.12.1",
+    "gatsby-plugin-excerpts": "^1.1.0",
     "gatsby-plugin-feed": "^5.12.0",
     "gatsby-plugin-image": "^3.12.0",
     "gatsby-plugin-manifest": "^5.12.0",
